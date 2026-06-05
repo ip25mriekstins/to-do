@@ -194,10 +194,8 @@ function displayTasks(){
 }
 
 if(isset($_POST['deleteBtn0'])){
-    // returnTaskN();
     $_SESSION['loginStatus'] = "true";
     $_SESSION['loginBtnDisplay'] =  'style = "display:none"'; 
-    echo 1;
 }
 
 
