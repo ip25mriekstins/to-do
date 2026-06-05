@@ -241,6 +241,7 @@ body {
     border-style: solid;
     border-color: darkgray;
     background-color: var(--color-bg);
+    color: var(--color-fg);
     width: 40%;
     font-family: monospace;
     display: flex;
