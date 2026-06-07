@@ -39,3 +39,5 @@ button.addEventListener("click", (event) => {
 
   currentThemeSetting = newTheme;
 }); 
+
+// https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f
