@@ -6,7 +6,6 @@
     <title>YourToDo's</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="style.css">
-    <script src="dark-light-toggle.js" defer></script>
 </head>
 <body>
     <?php 
